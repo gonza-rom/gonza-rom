@@ -22,7 +22,7 @@
         <img alt="Gonzalo Instagram" width="40px" src="https://user-images.githubusercontent.com/88150989/172024888-9ca40ca1-6006-4319-b583-88f02a3b5a07.png" />
     </a>
     <a href="https://www.linkedin.com/in/gonzalo-romero-0a4154235/">
-      <img alt="Gonzalo LinkedIN" width="40px" src="(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
+      <img alt="Gonzalo LinkedIN" width="40px" src="https://user-images.githubusercontent.com/88150989/172024894-1a8f3973-40ad-4098-8c2d-9d2fbfe7fbe0.png" />
     </a>
     <a href="mailto:gonzalorom2001@gmail.com">
       <img alt="Gonzalo Email" width="40px" src="https://user-images.githubusercontent.com/88150989/172024935-eabe01c2-d7f2-4e7a-add8-0e89c9f682cd.png" />
