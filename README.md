@@ -12,10 +12,6 @@
     <img height="30px" alt="Bootstrap Icon" src="https://img.shields.io/badge/Bootstrap-5A3A7B?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img height="30px" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
     <img height="30px" alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    
-    <!-- Proximamente -->
-    <!-- <img height="30px" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> -->
-    <!-- <img height="30px" alt="Node JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> -->
 </div>
 
 ## 📊 GitHub Stats:
