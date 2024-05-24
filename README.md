@@ -14,14 +14,14 @@
     <img height="30px" alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     
     <!-- Proximamente -->
-    <img height="30px" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-    <img height="30px" alt="Node JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <!-- <img height="30px" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> -->
+    <!-- <img height="30px" alt="Node JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> -->
 </div>
 
 ## 📊 GitHub Stats:
-![Elotickk's Stats](https://github-readme-stats.vercel.app/api?username=Elotickk&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![Elotickk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elotickk&theme=radical&hide_border=false)
-![Elotickk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elotickk&theme=radical&show_icons=true&hide_border=false&layout=compact)
+![Elotickk's Stats](https://github-readme-stats.vercel.app/api?username=Elotickk&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
+![Elotickk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elotickk&theme=radical&hide_border=false)<br/>
+![Elotickk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elotickk&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
 
 ## Work together! :mailbox_with_mail: 
 
