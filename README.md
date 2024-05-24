@@ -11,6 +11,7 @@
     <img height="30px" alt="SASS Icon" src="https://img.shields.io/badge/SASS-C96598?style=for-the-badge&logo=sass&logoColor=white" />
     <img height="30px" alt="GIT Icon" src="https://img.shields.io/badge/GIT-E64626?style=for-the-badge&logo=git&logoColor=white" />
     <img height="30px" alt="Bootstrap Icon" src="https://img.shields.io/badge/Bootstrap-5A3A7B?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img height="30px" alt="MySql Icon" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ## Work together! :mailbox_with_mail: 
