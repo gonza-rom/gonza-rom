@@ -15,9 +15,9 @@
 </div>
 
 ## 📊 GitHub Stats:
-![Elotickk's Stats](https://github-readme-stats.vercel.app/api?username=Elotickk&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
-![Elotickk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elotickk&theme=radical&hide_border=false)<br/>
-![Elotickk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elotickk&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
+![Elotickk's Stats](https://github-readme-stats.vercel.app/api?username=gonza-rom&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
+![Elotickk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gonza-rom&theme=radical&hide_border=false)<br/>
+![Elotickk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gonza-rom&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
 
 ## Work together! :mailbox_with_mail: 
 
