@@ -1,6 +1,3 @@
-
-![Gonzalo Romero](https://user-images.githubusercontent.com/106182824/203882439-21c88471-4bef-4d4a-a9c4-7ce040c6b197.png)
-
 ## 🚀 Habilidades
 
 ### Lenguajes de Programación
