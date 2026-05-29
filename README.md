@@ -31,7 +31,7 @@
   <img height="30px" alt="SASS Icon" src="https://img.shields.io/badge/SASS-C96598?style=for-the-badge&logo=sass&logoColor=white" />
   <img height="30px" alt="Astro" src="https://img.shields.io/badge/Astro-5A358C?style=for-the-badge&logo=astro&logoColor=orange" />
   <img height="30px" alt="React JS Icon" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img height="30px" alt="Next JS Icon" src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next&logoColor=white" />
+  <img height="30px" alt="Next JS Icon" src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 
 ### Control de Versiones
